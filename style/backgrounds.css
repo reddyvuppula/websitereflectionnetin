@@ -1,0 +1,18 @@
+
+/*-----------------------------------------*/
+/* Weve Responsive Metro Template */
+/*-----------------------------------------*/
+/* Backgrounds */
+/*-----------------------------------------*/
+
+	#slider:before {
+		background-image: url(../images/backgrounds/background_01-min.jpg);
+	}
+	
+	#page-title:before {
+		background-image: url(../images/backgrounds/background_01-min.jpg);
+	}
+	
+	footer:before {
+		background-image: url(../images/backgrounds/background_01-min.jpg);
+	}

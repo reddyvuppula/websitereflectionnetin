@@ -1,0 +1,59 @@
+
+#suggestBox2 {
+	margin-bottom: 0 !important;
+}
+
+.ui-menu {
+	position: absolute;
+	width: 100% !important;
+	top: 33px !important;
+	left: 0px;
+	height: auto !important;
+}
+
+.ui-menu li {
+	position: relative;
+	margin-bottom: 2px;
+	color: rgb(255,255,255);
+	padding: 15px;
+	font-size: 15px;
+	font-weight: 400;
+	display: block;
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+}
+
+.ui-menu a {
+	color: inherit;
+}
+
+.ui-menu a:hover {
+	text-decoration: none;
+}
+
+.ui-menu li:hover img {
+	transform: rotate(360deg);
+}
+
+.ui-menu li img {
+	float: left;
+	margin-right: 15px;
+	margin-top: 5px;
+	transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-webkit-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+}
+
+.ui-menu li small {
+	font-size: 10px;
+	font-weight: 700;
+	display: block;
+	margin-top: -3px;
+	color: rgb(20,20,20);
+}
+
+.ui-menu li a {
+	cursor: pointer;
+}

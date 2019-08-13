@@ -1,0 +1,48 @@
+
+/* Weve - dark scheme */
+
+header {
+	color: rgb(255,255,255);
+	background-color: rgba(0,0,0,0.4);
+}
+
+a.logo {
+	color: rgb(255,255,255);
+}
+
+.logo span {
+	color: rgba(0,0,0,0.8) !important;
+}
+
+#nav > ul > li > ul {
+   background-color: rgb(10,10,10);
+}
+
+#slider,
+#page-title {
+	color: rgb(255,255,255);
+	background-color: rgb(5,5,5);
+}
+
+footer {
+	color: rgb(255,255,255);
+	background-color: rgb(10,10,10);
+}
+
+.footer-second-row {
+	background: rgba(0,0,0,0.9)
+}
+
+.search-box .input-submit i,
+.newsletter .input-submit i {
+	color: rgb(255,255,255) !important;
+}
+
+header .social-icons li,
+footer .social-icons li {
+	background: rgba(0,0,0,0.6) !important;
+}
+
+.top-bar {
+	 /*border-bottom: 2px solid rgba(255,255,255,0.12);*/
+ }

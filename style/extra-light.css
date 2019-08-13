@@ -1,0 +1,78 @@
+
+/* Weve - extra light scheme */
+
+header {
+	background: rgb(255,255,255);
+	border-top: 3px solid;
+	border-bottom: 1px solid rgb(230,230,230) !important;
+	box-shadow: 1px 0px 1px 1px rgb(240,240,240);
+}
+
+header .search-box input,
+footer .newsletter input {
+	color: inherit !important;
+}
+
+#nav > ul > li > ul {
+    background-color: rgb(255,255,255) !important;
+}
+
+.logo-left-bg {
+	background: rgb(255,255,255) !important;
+}
+
+.logo-left {
+	background: rgb(255,255,255) !important;
+}
+
+.logo {
+	color: inherit;
+}
+
+.main-menu > ul > li > ul {
+   background: rgb(255,255,255);
+}
+
+#slider {
+	background: rgb(255,255,255);
+	border-bottom: 1px solid rgb(230,230,230);
+	box-shadow: 1px 0px 1px 1px rgb(240,240,240);
+}
+
+footer {
+	border-top: 1px solid rgb(230,230,230);
+	box-shadow:inset 1px 0px 1px 1px rgb(240,240,240);
+}
+
+.footer-second-row {
+	border-top: 1px solid rgb(230,230,230);
+	box-shadow:inset 1px 0px 1px 1px rgb(240,240,240);
+	background: rgb(255,255,255);
+}
+
+footer h3 {
+	font-weight: 400;
+}
+
+.main-flex-next { background-image: url(../images/template/main-next-arrow_black.png) !important; }
+.main-flex-prev { background-image: url(../images/template/main-prev-arrow_black.png) !important; }
+
+footer:before,
+#slider:before,
+#page-title:before {
+	background: none !important;
+	display: none;
+}
+
+.footer-second-row .copyright {
+	opacity: 1 !important;
+}
+
+#page-title {
+	border-bottom: 1px solid rgb(230,230,230);
+	box-shadow: 1px 0px 1px 1px rgb(240,240,240);
+}
+
+.breadcumbs {
+	box-shadow: 1px 0px 1px 1px rgb(240,240,240);
+}
